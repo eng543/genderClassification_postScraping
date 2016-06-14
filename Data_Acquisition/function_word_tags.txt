@@ -1,0 +1,37 @@
+CC: conjunction, coordinating
+    & 'n and both but either et for less minus neither nor or plus so
+    therefore times v. versus vs. whether yet
+DT: determiner
+    all an another any both del each either every half la many much nary
+    neither no some such that the them these this those
+EX: existential there
+    there
+IN: preposition or conjunction, subordinating
+    astride among uppon whether out inside pro despite on by throughout
+    below within for towards near behind atop around if like until below
+    next into if beside ...
+MD: modal auxiliary
+    can cannot could couldn't dare may might must need ought shall should
+    shouldn't will would
+PDT: pre-determiner
+    all both half many quite such sure this
+PRP: pronoun, personal
+    hers herself him himself hisself it itself me myself one oneself ours
+    ourselves ownself self she thee theirs them themselves they thou thy us
+PRP$: pronoun, possessive
+    her his mine my our ours their thy your
+RP: particle
+    aboard about across along apart around aside at away back before behind
+    by crop down ever fast for forth from go high i.e. in into just later
+    low more off on open out over per pie raising start teeth that through
+    under unto up up-pp upon whole with you
+TO: "to" as preposition or infinitive marker
+    to
+WDT: WH-determiner
+    that what whatever which whichever
+WP: WH-pronoun
+    that what whatever whatsoever which who whom whosoever
+WP$: WH-pronoun, possessive
+    whose
+WRB: Wh-adverb
+    how however whence whenever where whereby whereever wherein whereof why
