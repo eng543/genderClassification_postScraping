@@ -13,7 +13,7 @@ sel = VarianceThreshold(threshold=(.8 * (1 - .8)))
 X_sel = sel.fit_transform(X)
 X_sel.shape
 
-y_array = np.load('user_class_array.npz')
+y_array = np.load('user_class_array_scheme2.npz')
 y_np = y_array['matrix']
 y = y_np.tolist()[0]
 
